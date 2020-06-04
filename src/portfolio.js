@@ -5,7 +5,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Abraham Fong",
   title: "Hello, I'm Abraham.",
-  subTitle_1: emoji("A Software Developer with a positive attitude and thirst for knowledge. 👨🏻‍💻"),
+  subTitle_1: emoji("A Software Developer with a positive attitude and . 👨🏻‍💻"),
   subTitle_2: emoji("I have experience building web applications, RESTful APIs, & serverless microservices using Golang / Python / PHP / JavaScript / NodeJS and other cool libraries and frameworks."),
   resumeLink: "https://drive.google.com/file/d/1xa9BlP1CHPCfmgWx10ahZmWUJXW4_GEo/view?usp=sharing"
 };
@@ -96,7 +96,7 @@ const techStack = {
     {
       level: "Backend",
       technology: "Golang, Python, PHP/Laravel, NodeJS, Java",
-      projects: "ServiceNow Change Automation / SSL Certificate Discovery Script / Spring Restful API / Parlevel Systems Warehouse module / DigitalBeef Registry Portal",
+      projects: "ServiceNow Change Automation / SSL Certificate Discovery Script / Spring Restful API / Parlevel Systems Warehouse Module / DigitalBeef Registry Portal",
       colorlogo:  require("./assets/images/backend-icon.png"),
 
     },
