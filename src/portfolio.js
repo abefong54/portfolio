@@ -5,7 +5,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Abraham Fong",
   title: "Hello, I'm Abraham.",
-  subTitle_1: emoji("A Software Developer with a positive problem solving mentality. 👨🏻‍💻"),
+  subTitle_1: emoji("A Software Developer with a positive attitude and thirst for knowledge. 👨🏻‍💻"),
   subTitle_2: emoji("I have experience building web applications, RESTful APIs, & serverless microservices using Golang / Python / PHP / JavaScript / NodeJS and other cool libraries and frameworks."),
   resumeLink: "https://drive.google.com/file/d/1xa9BlP1CHPCfmgWx10ahZmWUJXW4_GEo/view?usp=sharing"
 };
