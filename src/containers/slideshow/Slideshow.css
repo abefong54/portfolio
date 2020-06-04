@@ -1,0 +1,36 @@
+.carousel-main-div {
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
+    padding: 1.5rem;
+    border-radius: 10px;
+    border: 1px solid rgba(211, 211, 211, 0.397);
+    height: 500px;
+    width: 100%;
+}
+
+.slideshow-cards-div {
+
+
+}
+
+.work-image {
+    position: row;
+    border: 10px black;
+    border-radius: 10px;
+    height: inherit;
+    width: inherit;
+  }
+
+
+  .carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+}
+
+.card-company,  .card-role, .work-description {
+    color:black;
+    position: relative;
+    left: auto;
+    right: auto;
+}
